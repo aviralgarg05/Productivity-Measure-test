@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-opencv-python-headless  # Replace opencv-python with this
+opencv-python-headless  # Use this for headless environments
 deepface
 mediapipe
 pydantic

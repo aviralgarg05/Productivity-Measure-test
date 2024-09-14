@@ -5,3 +5,5 @@ deepface
 mediapipe
 pydantic
 numpy
+tf_keras
+tensorflow

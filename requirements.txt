@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+deepface
+mediapipe
+pydantic
+numpy
+opencv-python-headless  # This is important to avoid GUI-related issues in a container

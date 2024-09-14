@@ -222,10 +222,5 @@ async def process_frame():
 async def read_root():
     return {"message": "Welcome to the FastAPI application!"}
 
-
 if __name__ == "__main__":
-    # Initialize the CSV file
-    init_csv()
-
-    # Run the FastAPI app (or any other main code)
     uvicorn.run(app, host="0.0.0.0", port=8000)
